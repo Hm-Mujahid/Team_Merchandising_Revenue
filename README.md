@@ -14,10 +14,3 @@ To install the project, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/yourproject.git
-
-   Name	        Roll Number
-LALSAB            	41-A
-HM MUJAHID PASHA   	23-A
-MOHAMMAD ASHIF    	44-A
-RAGHURAM	          11-A
-CHANDRASHEKAR H	    16-A
